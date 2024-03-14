@@ -6,3 +6,6 @@ Currently bot can:
 3) Load the current player progress (by using the "progress key", which have to be exported before)
 4) Closing the achievements
 5) Clicking the cookie
+
+Be careful:
+Depends of your computer/internet speed bot can fail sometimes - just try again :)
